@@ -21,15 +21,10 @@ The study focuses particularly on hydrogen production.
 
 ## Current Results
 
-Thermodynamic equilibrium calculations have been completed for:
-
-- 400 °C
-- 500 °C
-- 600 °C
+During a heating experiment with a target temperature of 600 °C, gas samples were collected when the reactor reached 400 °C, 500 °C, and 600 °C. The collected gas samples were analyzed using a gas analyzer.
 
 The calculated equilibrium compositions of H₂, CO and CO₂ are provided in the CSV file, and the corresponding temperature-dependent plot is included as a PNG file.
-
-Experimental gas-analysis data are being collected for comparison with the theoretical results.
+Gas compositions measured at 400, 500 and 600 °C during the heating experiment are being compared with thermodynamic equilibrium calculations at the corresponding temperatures.
 
 ## Current Status
 
