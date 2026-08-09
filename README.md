@@ -1,5 +1,3 @@
-# Pinewood-Pyrolysis-Thermodynamic-Study
-Thermodynamic equilibrium analysis of gas products from pinewood pyrolysis using Cantera and Python.
 # Pinewood Pyrolysis – Thermodynamic Study
 
 Thermodynamic equilibrium analysis of gas products from pinewood pyrolysis using Cantera and Python.
@@ -27,6 +25,26 @@ The calculated equilibrium compositions of H₂, CO and CO₂ are provided in th
 Gas compositions measured at 400, 500 and 600 °C during the heating experiment are being compared with thermodynamic equilibrium calculations at the corresponding temperatures.
 
 ## Current Status
+
+## Experimental Gas Analysis
+
+A pinewood pyrolysis experiment was conducted with a target reactor temperature of 600 °C.
+
+Gas samples were collected during the heating process when the reactor reached approximately 400 °C and 500 °C, followed by samples at 600 °C. An additional gas sample was collected after approximately 15 minutes at 600 °C.
+
+Therefore, the 400 °C and 500 °C measurements represent gas composition during the heating ramp of the 600 °C experiment rather than independent pyrolysis experiments conducted at those temperatures.
+
+The gas samples were analyzed using a gas analyzer.
+
+The measured gas components included:
+- CO
+- CO₂
+- H₂
+- O₂
+- NOx
+
+The experimental results are provided in `experimental_gas_results.csv`.
+
 
 **Ongoing**
 
