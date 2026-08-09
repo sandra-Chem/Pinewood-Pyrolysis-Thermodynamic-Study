@@ -66,7 +66,10 @@ The experimental results are provided in `experimental_gas_results.csv`.
 ```text
 Pinewood-Pyrolysis-Thermodynamic-Study/
 │
+├── README.md
 ├── Thermodynamic_study.ipynb
 ├── thermodynamic_equilibrium_results.csv
 ├── thermodynamic_equilibrium_results.png
-└── README.md
+│
+├── experimental_results.csv
+└── experimental_gas_results.png
