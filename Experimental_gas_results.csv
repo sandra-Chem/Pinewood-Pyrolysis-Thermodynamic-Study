@@ -1,5 +1,0 @@
-Sample (Condition),Time Interval (min),Max CO (%),Max CO2 (%),Max H2 (%),Max O2 (%),Max NOx (%)
-Sample 1 (400°C during heating),0.0 - 7.0,0.17,0.68,0.58,20.62,0.3
-Sample 2 (500°C  during heating),7.0 - 13.0,8.27,11.81,0.48,20.62,2.8
-Sample 3 (600°C),13.0 - 19.0,6.62,7.08,2.42,20.6,3.2
-Sample 4 (600°C after 15 min),19.0 - 23.0,4.14,7.33,1.85,20.62,1.6
