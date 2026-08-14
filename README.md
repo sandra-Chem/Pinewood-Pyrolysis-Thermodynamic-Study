@@ -233,7 +233,8 @@ Pinewood-Pyrolysis-Thermodynamic-Study/
 │
 ├── README.md
 ├── notebooks/
-│   └── Thermodynamic study.ipynb
+│   └── THERMODYNAMIC_STUDY_PYROLYSIS.ipynb
+
 │
 ├── data/
 │   ├── unconstrained_equilibrium_results.csv
