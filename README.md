@@ -1,4 +1,4 @@
-# Pinewood Pyrolysis – Thermodynamic Study Using Python and Cantera
+# Thermodynamic Equilibrium Modeling of Pinewood Pyrolysis for H₂ Production Using Python and Cantera
 
 ## Overview
 
